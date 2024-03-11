@@ -31,7 +31,7 @@ const fact = function(num){
 }
 
 
-let input = "ABC"
+let input = "AAB"
 numTilePossibilities(input)
 console.log(arr)
 
